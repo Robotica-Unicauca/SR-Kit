@@ -2,7 +2,7 @@
 
 ![SR-Kit](kit.png)
 
-Kit de robótica basado en ESP32 que permite controlar un robot con dos motores DC (tracción diferencial) y un buzzer a través de Bluetooth clásico (SPP). Incluye el firmware, una app Android para el control y un modelo 3D de una pieza del kit.
+Kit de robótica basado en ESP32 que permite controlar un robot con dos motores DC (tracción diferencial) y un buzzer a través de Bluetooth clásico (SPP). Incluye el firmware, una app Android para el control y modelos 3D para imprimir accesorios.
 
 ## Contenido del repositorio
 
