@@ -8,7 +8,7 @@ Kit de robótica basado en ESP32 que permite controlar un robot con dos motores 
 
 - `src/MandoBluetooth.ino` — Firmware para ESP32 (control de motores y buzzer vía Bluetooth).
 - `apk/SR_app.apk` — Aplicación Android para enviar los comandos de control por Bluetooth.
-- `models/Pala.stl` — Modelo 3D imprimible de una de las piezas del kit.
+- `models/` — Modelos 3D imprimibles de accesorios para el kit.
 
 ## Hardware
 
